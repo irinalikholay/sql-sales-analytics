@@ -22,4 +22,15 @@ Actions performed:
 
 This step establishes the data foundation required for further SQL analysis.
 
-## Step 3. 
+## Step 3. Core Sales Metrics in SQL
+
+In this step, basic sales metrics were calculated using SQL quaries.
+
+The following metrics were analyzed:
+- Total number of orders.
+- total revenue.
+- Average Order Value (AOV).
+- Daily revenue trends.
+- Revenue by products.
+
+SQL aggregation functions such as COUNT, SUM, and AVG were used, along with GROUP BY and ORDER BY clauses to analyze the data from different business perspectives.
