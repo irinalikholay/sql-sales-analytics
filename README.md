@@ -34,3 +34,12 @@ The following metrics were analyzed:
 - Revenue by products.
 
 SQL aggregation functions such as COUNT, SUM, and AVG were used, along with GROUP BY and ORDER BY clauses to analyze the data from different business perspectives.
+
+## Step 4. Business Insights
+
+The analysis shows that revenue is highly concentrated in a single product category.
+
+Phone is the top-performing product both in terms of total revenue and number of orders.
+This indicates that its leadership is driven by strong and consistent customerdemand, not only by higher prices.
+
+While this makes Phone the main growth driver, it also introduces business risk, as the company becomes highly dependent on one product category.
