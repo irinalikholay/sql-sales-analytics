@@ -43,3 +43,27 @@ Phone is the top-performing product both in terms of total revenue and number of
 This indicates that its leadership is driven by strong and consistent customerdemand, not only by higher prices.
 
 While this makes Phone the main growth driver, it also introduces business risk, as the company becomes highly dependent on one product category.
+
+## Step 5. Time-Based Revenue Analysis
+
+In this step, daily revenue dynamics were analyzed to understand business stability and revenue volatility over time.
+
+# Daily revenue agregation 
+Revenue was aggregated by order date using SQL 'GROUP BY order_date', allowing one row per day.
+
+# Key metrics identified
+- Minimum daily revenue : 98
+- Maximus daily revenue : 11,475
+- Average daily revenue : ~ 3,036
+- Median daily revenue : 2,540
+
+# Distribution analysis 
+The average daily revenue is noticeable higher than the median , indicating a right-skewed distribution.
+This means that while most days generate moderate revenue (around 2,500), several high-revenue days significantly increase the overall average.
+
+## Business insight
+The company demonstrates revenue volatility with occasional high-performance days. 
+
+Relying solely on average daily revenue may overestimate typical daily performance. The median provides a more realistic view of a standart operating day.
+
+This analysis highlights the importance of eevaluating distribution shape, not only summary metrics, when assessing business stability.
