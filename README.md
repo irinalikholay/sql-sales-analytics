@@ -109,3 +109,19 @@ Revenue distribution is diversified across customers.
 
 The customer base is broad and relatively stable.
 There is no extreme revenue concentration risk.
+
+## Step 8 — Product Analysis
+
+### What was analyzed
+
+- Revenue share by product
+- Average order value per product
+- Monthly revenue trends
+
+### Key Findings
+
+- Phone generates ~36% of total revenue and is the main revenue driver.
+- Revenue is distributed across five products with no extreme dependency.
+- Monitor has the highest average order value.
+- Phone leads due to higher sales volume.
+- Moderate seasonal variation observed.
