@@ -125,3 +125,49 @@ There is no extreme revenue concentration risk.
 - Monitor has the highest average order value.
 - Phone leads due to higher sales volume.
 - Moderate seasonal variation observed.
+
+# FINAL BUSINESS SUMMARY
+
+This project analyzed sales performance using SQL across:
+
+- Revenue metrics
+- Product performance
+- Customer distribution
+- Time-based trends
+- Seasonality
+- Revenue concentration risk
+
+
+## Key Business Insights
+
+### Revenue Structure
+- Total revenue: 2.21M
+- Revenue distribution is stable with moderate volatility.
+- No extreme dependency on a single product or customer.
+
+### Product Insights
+- Phone is the main revenue driver (~36%).
+- Revenue is diversified across five products.
+- Monitor has the highest average order value.
+- Business model is volume-driven rather than price-driven.
+
+### Customer Insights
+- 1,168 unique customers.
+- No single customer dominates revenue (<1% share).
+- Revenue risk from customer concentration is low.
+
+### Time & Seasonality
+- 24 months analyzed (2 years).
+- Revenue remains stable year-over-year.
+- October shows strong seasonal performance.
+- February tends to be weaker.
+
+## Final Conclusion
+
+The business demonstrates:
+- Diversified revenue streams
+- Stable customer base
+- Balanced product portfolio
+- Moderate seasonal fluctuations
+
+Overall, the company shows financial stability with manageable concentration risk.
