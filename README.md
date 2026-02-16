@@ -67,3 +67,18 @@ The company demonstrates revenue volatility with occasional high-performance day
 Relying solely on average daily revenue may overestimate typical daily performance. The median provides a more realistic view of a standart operating day.
 
 This analysis highlights the importance of eevaluating distribution shape, not only summary metrics, when assessing business stability.
+
+## Step 6. Monthly revenue analysis
+
+# What was done
+- Aggregated revenue on a monthly level.
+- Evaluated year-over-year trend.
+- Identified seasonality patterns.
+- Determined strongest and weakest month.
+
+# Key findings
+- Dataset covers 24 months (2 years).
+- Revenue remains relatively stable.
+- Clear seasonality observed.
+- Strongest month : October.
+- Weakest month : February.
